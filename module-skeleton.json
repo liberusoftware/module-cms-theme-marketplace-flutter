@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-theme-marketplace-flutter",
+  "capabilityKey": "liberusoftware/module-cms-theme-marketplace",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_theme_marketplace_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/theme-marketplace.md",
+  "presentationPlan": "projects/cms/flutter/theme-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
